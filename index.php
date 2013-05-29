@@ -6,6 +6,7 @@
     </head>
     <body>
         <?php
+
         // versió inicial del missatge
         
         function suma($a, $b){
