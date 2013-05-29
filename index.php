@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // versió inicial del missatge
+        // Funció per una suma
         ?>
     </body>
 </html>
