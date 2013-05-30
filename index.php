@@ -26,7 +26,12 @@
         $a = 1; $b = 2;
         echo "Sumemos $a + $b = " . suma($a, $b);
 	
+      	function multi($a, $b){
+            return $a * $b;
+        }   
         
+        $a = 1; $b = 2;
+        echo "Sumemos $a * $b = " . suma($a, $b); 
         ?>
     </body>
 </html>
